@@ -487,7 +487,7 @@ jika kamu menginginkan base script ini silahkan klik tombol di bawah ini
                         name: "cta_url",
                         buttonParamsJson: JSON.stringify({
                             display_text: "get sc",
-                            url: "https://github.com/noxXza/base-bot-wa",
+                            url: "https://github.com/noxXza/base-bot-caseXplugins",
                             merchant_url: "https://www.google.com"
                         })
                     }
