@@ -15,7 +15,7 @@ import baileys, {
     generateWAMessageFromContent, 
     getContentType, 
     prepareWAMessageMedia 
-} from '@whiskeysockets/baileys';
+} from 'noxleyss';
 
 import { 
     smsg, isUrl, generateMessageTag, getBuffer, runtime, fetchJson, sleep, processTime, getTime, tanggal, parseMention
